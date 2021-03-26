@@ -14,3 +14,4 @@ for j in range(len(ad)):
         a.insert(j, kek)
         a.remove(a[j + 1])
 print(a)
+
