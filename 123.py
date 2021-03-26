@@ -1,6 +1,6 @@
 a = []
 ch = 2
-while len(a) != 1100:
+while len(a) != 100:
     a.append(str(ch))
     ch += 24
 for i in a:
